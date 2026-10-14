@@ -1,0 +1,5 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HirePath | Find Your Path</title><link rel="stylesheet" href="assets/style.css"></head>
+<body><nav class="nav"><a class="brand" href="index.jsp">Hire<span>Path</span></a><div><a href="jobs">Browse Jobs</a><a href="login.jsp">Login</a><a class="btn small" href="register.jsp">Get Started</a></div></nav>
+<main class="hero"><p class="eyebrow">YOUR NEXT CHAPTER STARTS HERE</p><h1>Find Your Path.<br><span>Build Your Career.</span></h1><p class="lead">Discover opportunities, connect with employers, and take the next step in your professional journey.</p><div class="actions"><a class="btn" href="jobs">Explore Jobs ↗</a><a class="btn outline" href="register.jsp">Create an account</a></div><div class="hero-stats"><div><b>Discover</b><small>Opportunities</small></div><div><b>Connect</b><small>With employers</small></div><div><b>Grow</b><small>Your career</small></div></div></main>
+<footer>© HirePath · Find your next opportunity</footer></body></html>
